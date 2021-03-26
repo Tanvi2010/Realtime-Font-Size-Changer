@@ -37,3 +37,11 @@ body {
   color:rgb(253, 227, 62);
   font-weight: bold;
 }
+#name{
+  width:150px;
+}
+
+#col{
+  width:150px;
+  color: #ffffff;
+}
